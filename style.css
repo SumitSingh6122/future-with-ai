@@ -472,6 +472,9 @@ z-index: 100;
     .home-content h1{
         font-size: 3.2rem;
     }
+    .home{
+        height:60vh;
+    }
     
     
  
