@@ -90,7 +90,7 @@ section.about .header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-image: url('images/Types_of_Artificial_Intelligence.avif');
+    background-image: url('Types_of_Artificial_Intelligence.avif');
     background-repeat: no-repeat;
     z-index: 1000;
     background-size: cover; 
