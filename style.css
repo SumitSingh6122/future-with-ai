@@ -423,6 +423,7 @@ z-index: 100;
     .home{
         flex-direction: column;
        background: var(--bg-color);
+        height:60vh;
     
     }
    
