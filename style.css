@@ -469,8 +469,8 @@ z-index: 100;
     html{
         font-size: 50%;
     }
-   .menu-icon{
-       margin-right:10px;
+.header{
+    overflow: none;
    }
     .home-content h1{
         font-size: 3.2rem;
