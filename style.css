@@ -473,6 +473,7 @@ z-index: 100;
     overflow: none;
    }
     .menu-icon{
+        position:sticky;
 margin-right:50px;
     }
     .home-content h1{
