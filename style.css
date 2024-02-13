@@ -241,7 +241,10 @@ z-index: 100;
     transform: scale(1.1);
 
 }
-
+.img-box{
+    width:100%;
+    overflow:hidden;
+}
 .box img{
     font-size: 7rem;
     color:var(--main-color);
