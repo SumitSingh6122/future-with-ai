@@ -383,7 +383,10 @@ z-index: 100;
     .home {
         background: none;
         text-align: center;
-        height: max-content;
+        height: 300px;
+    }
+    .home-content{
+        left:0;
     }
 }
 @media (max-width:991px) {
