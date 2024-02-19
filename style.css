@@ -230,7 +230,7 @@ border-radius: 2rem;
 text-align: center;
 border: .2rem solid var(--bg-color);
 transition: .5s ease-in;
-height:60rem;
+height:65rem;
 }
 .container .box:hover{
 border-color: var(--main-color);
