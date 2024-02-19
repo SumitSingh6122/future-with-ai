@@ -379,6 +379,13 @@ z-index: 100;
     font-size: 55%;
  }   
 }
+@media (min-width: 769px) and (min-height: 990px) {
+    .home {
+        background: none;
+        text-align: center;
+        height: max-content;
+    }
+}
 @media (max-width:991px) {
     .header{
         padding: 2rem 3%;
