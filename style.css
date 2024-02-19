@@ -393,7 +393,7 @@ z-index: 100;
     .about{
   min-height: auto;
     }
-    .box{
+   .Innovation .container .box{
         height:80rem;
     }
 }
