@@ -213,7 +213,7 @@ margin-bottom: 20px;
     margin:2rem 0 3rem ;
 }
 .achivement{
-
+  display: flex;
   width: 100vw;
   height: 100vh;
 
@@ -224,7 +224,7 @@ margin-bottom: 20px;
     max-width: 100vw;
     left: 0;
     height: 100vh;
-    
+    position: absolute;
     display: flex;
     flex-direction: column;
 }
@@ -237,6 +237,10 @@ margin-bottom: 20px;
     display: flex;
 
     
+}
+
+.text-box h2{
+    font-weight: 600;
 }
 .Innovation h2{
     margin-bottom: 5rem;
