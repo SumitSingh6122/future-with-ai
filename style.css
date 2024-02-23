@@ -531,17 +531,8 @@ transform: scale(1+0.5);
 }
 }
 @media only screen and (min-width: 980px) and (min-height: 780px){
-.home{
+section{
     height:max-content;
-}
-.about{
-    height: 750px;
-}
-.achivement{
-    height: 750px;
-}
-.Innovation{
-    height: 750px;
 }
 }
 @media (max-width:480px) {
