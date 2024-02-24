@@ -239,7 +239,7 @@ justify-content: center;
     background-color:var(--main-color);
     box-shadow: 0 0 2rem var(--main-color); 
     transition: 5s ease-in;/* Adjust this value to change the color of the underline */
-    animation: crazy-underline 10s forwards; /* Adjust animation properties as needed */
+    animation: crazy-underline 10s infinite; /* Adjust animation properties as needed */
   }
  
   @keyframes crazy-underline {
